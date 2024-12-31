@@ -7,5 +7,8 @@
 ```
 var test1 = "does the code have to come after the image for the training to work"
 ```
-
+- [ ] 1
+- [ ] 2
+- [ ] 3
+      
 EH added a header
