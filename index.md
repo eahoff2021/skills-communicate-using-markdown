@@ -1,6 +1,6 @@
 # This is an H1 <H1> header
 
-Dim myStr as string = "Hello World"
+var myVar = "this is a test"
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
